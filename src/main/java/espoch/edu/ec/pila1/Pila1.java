@@ -13,5 +13,6 @@ public class Pila1 {
         pila.push(56);
         
         pila.mostrarElemento();
+        System.out.println("Jessica vale verg$$$$");
     }
 }
